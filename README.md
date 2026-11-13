@@ -196,4 +196,4 @@ This repository serves as the official landing page for HiView. The software is 
 **Get the most recent version of HiView today!**
 
 ---
-**Last updated:** 2026-11-12 22:59:34 UTC
+**Last updated:** 2026-11-13 03:16:02 UTC
